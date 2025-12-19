@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Sotaro[Sot[So's GitHub(https://github-readme-stats.vercel.app/api?username=SoSo3j)](https://github.com/SoSo3j/github-readme-stats)
+[![Sotaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoSo3j)](https://github.com/SoSo3j/github-readme-stats)
+
 <!--
 **SoSo3j/SoSo3j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
